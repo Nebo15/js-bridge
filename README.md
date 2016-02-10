@@ -1,4 +1,4 @@
-# js-bridge
+# JS bridge
 JS bridge for payment processing
 
 ### Steps: 
