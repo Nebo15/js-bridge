@@ -1,4 +1,6 @@
 # JS bridge
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nebo15/js-bridge.svg)](https://greenkeeper.io/)
 JS bridge for payment processing
 
 ### Steps: 
